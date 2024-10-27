@@ -26,10 +26,10 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 
 ### 📈 GitHub Stats:
 <div height="500px">
- <table>
-  <tr>
-    <th><img height="100%" src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Sajib's GitHub Stats" /></th>
-    <th> <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Top Languages" /> </th>
+ <table style="border-collapse: collapse;">
+  <tr style="padding:0">
+    <th style="padding:0"><img height="10%" src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Sajib's GitHub Stats" /></th>
+    <th style="padding:0"> <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Top Languages" /> </th>
   </tr>
 </table>
 
@@ -39,8 +39,8 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 ---
 
 ### 📈 Current Stats:
-<p>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajib360&theme=highcontrast&hide_border=true&background=ffffff00&ring=1E90FF&fire=87CEEB&currStreakLabel=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="Sajib's Streak Stats"/>
+<p align="left">
+    <img width="60%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajib360&theme=highcontrast&hide_border=true&background=ffffff00&ring=1E90FF&fire=87CEEB&currStreakLabel=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="Sajib's Streak Stats"/>
 
 </p>
 
