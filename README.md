@@ -34,7 +34,7 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 </p
 
 ---
-
+### 📈 GitHub Stats:
 
 ### 📫 Connect with Me:
 <p align="left">
