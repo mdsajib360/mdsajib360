@@ -27,7 +27,7 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 ### 📈 GitHub Stats:
 <p align="left">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Sajib's GitHub Stats" />
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </p>
 
