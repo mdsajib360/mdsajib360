@@ -39,8 +39,8 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 ---
 
 ### 📈 Current Stats:
-<p align="left">
-    <img width="60%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajib360&theme=highcontrast&hide_border=true&background=ffffff00&ring=1E90FF&fire=87CEEB&currStreakLabel=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="Sajib's Streak Stats"/>
+<p align="center">
+    <img width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajib360&theme=highcontrast&hide_border=true&background=ffffff00&ring=1E90FF&fire=87CEEB&currStreakLabel=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="Sajib's Streak Stats"/>
 
 </p>
 
