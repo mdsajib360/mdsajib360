@@ -26,15 +26,15 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Sajib's GitHub Stats" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical" alt="Sajib's GitHub Stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/md-abdul-awal-sajib-926155318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
