@@ -25,12 +25,12 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical" alt="Sajib's GitHub Stats" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajib360&theme=radical" alt="Sajib's Streak Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Sajib's Streak Stats" width="400px" />
+</div>
 
-</p>
 
 ---
 
