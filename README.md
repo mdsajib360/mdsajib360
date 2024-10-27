@@ -26,10 +26,10 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical" alt="Sajib's GitHub Stats" width="400px" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical" alt="Sajib's GitHub Stats" width="400px" />
 
   ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical" alt="Top Languages" width="400px" height="165px"/>
 
 </p>
 
@@ -60,4 +60,3 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 - Contribute to open-source projects and collaborate with other developers
 
 Thanks for visiting! 😊
-s
