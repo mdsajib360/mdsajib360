@@ -25,10 +25,10 @@ I'm a **Web Development Enthusiast** passionate about creating and exploring the
 ---
 
 ### 📈 GitHub Stats:
-<p>
+<div>
   <img height="300px" width="50%" src="https://github-readme-stats.vercel.app/api?username=mdsajib360&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Sajib's GitHub Stats" /> 
    <img height="300px" width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajib360&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=87CEEB" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
